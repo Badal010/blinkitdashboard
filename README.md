@@ -3,6 +3,7 @@ STEPS IN PROJECT
 ✓ Requirement Gathering/ Business Requirements ✓ Data Walkthrough ✓ Data Connection ✓ Data Cleaning / Quality Check ✓ Data Modeling ✓ Data Processing ✓ DAX Calculations ✓ Dashboard Lay outing ✓ Charts Development and Formatting
 
 DATA TUTORIALS 
+
 ✓ Dashboard / Report Development✓ Insights Generation
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
